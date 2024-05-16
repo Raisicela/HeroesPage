@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "usuario": "John Doe",
       "email": "john.due@gmail.com"
     }
@@ -71,7 +71,7 @@
       "first_appearance": "Detective Comics #38",
       "characters": "Dick Grayson"
     },
-    {
+     {
       "id": "dc-blue",
       "superhero": "Blue Beetle",
       "publisher": "DC Comics",
